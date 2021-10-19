@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\MementoDesignPattern\bin\Debug\net5.0\MementoDesignPattern.exe
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\MementoDesignPattern\bin\Debug\net5.0\MementoDesignPattern.deps.json
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\MementoDesignPattern\bin\Debug\net5.0\MementoDesignPattern.runtimeconfig.json
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\MementoDesignPattern\bin\Debug\net5.0\MementoDesignPattern.runtimeconfig.dev.json
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\MementoDesignPattern\bin\Debug\net5.0\MementoDesignPattern.dll
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\MementoDesignPattern\bin\Debug\net5.0\ref\MementoDesignPattern.dll
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\MementoDesignPattern\bin\Debug\net5.0\MementoDesignPattern.pdb
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\MementoDesignPattern\obj\Debug\net5.0\MementoDesignPattern.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\MementoDesignPattern\obj\Debug\net5.0\MementoDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\MementoDesignPattern\obj\Debug\net5.0\MementoDesignPattern.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\MementoDesignPattern\obj\Debug\net5.0\MementoDesignPattern.AssemblyInfo.cs
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\MementoDesignPattern\obj\Debug\net5.0\MementoDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\MementoDesignPattern\obj\Debug\net5.0\MementoDesignPattern.dll
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\MementoDesignPattern\obj\Debug\net5.0\ref\MementoDesignPattern.dll
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\MementoDesignPattern\obj\Debug\net5.0\MementoDesignPattern.pdb
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\MementoDesignPattern\obj\Debug\net5.0\MementoDesignPattern.genruntimeconfig.cache

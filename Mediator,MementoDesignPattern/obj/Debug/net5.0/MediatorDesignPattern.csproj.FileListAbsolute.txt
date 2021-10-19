@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\Mediator,MementoDesignPattern\bin\Debug\net5.0\MediatorDesignPattern.exe
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\Mediator,MementoDesignPattern\bin\Debug\net5.0\MediatorDesignPattern.deps.json
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\Mediator,MementoDesignPattern\bin\Debug\net5.0\MediatorDesignPattern.runtimeconfig.json
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\Mediator,MementoDesignPattern\bin\Debug\net5.0\MediatorDesignPattern.runtimeconfig.dev.json
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\Mediator,MementoDesignPattern\bin\Debug\net5.0\MediatorDesignPattern.dll
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\Mediator,MementoDesignPattern\bin\Debug\net5.0\ref\MediatorDesignPattern.dll
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\Mediator,MementoDesignPattern\bin\Debug\net5.0\MediatorDesignPattern.pdb
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\Mediator,MementoDesignPattern\obj\Debug\net5.0\MediatorDesignPattern.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\Mediator,MementoDesignPattern\obj\Debug\net5.0\MediatorDesignPattern.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\Mediator,MementoDesignPattern\obj\Debug\net5.0\MediatorDesignPattern.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\Mediator,MementoDesignPattern\obj\Debug\net5.0\MediatorDesignPattern.AssemblyInfo.cs
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\Mediator,MementoDesignPattern\obj\Debug\net5.0\MediatorDesignPattern.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\Mediator,MementoDesignPattern\obj\Debug\net5.0\MediatorDesignPattern.dll
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\Mediator,MementoDesignPattern\obj\Debug\net5.0\ref\MediatorDesignPattern.dll
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\Mediator,MementoDesignPattern\obj\Debug\net5.0\MediatorDesignPattern.pdb
+C:\Users\user\source\repos\Mediator,MementoDesignPattern\Mediator,MementoDesignPattern\obj\Debug\net5.0\MediatorDesignPattern.genruntimeconfig.cache
